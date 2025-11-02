@@ -9,7 +9,7 @@ READ_MODE = 'r'
 odds = "Odds"
 iterations = 10000
 
-draw_cost = [10, 30, 50, 120, 200, 320, 520, 800, 1100, 1400]
+draw_cost = [10, 20, 30, 50, 100, 200, 520, 800, 1100, 1400]
 costArray = []
 turnArray = []
 
